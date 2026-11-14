@@ -6,6 +6,8 @@ dependencies = [
     "bpy==5.2.*",
     "huggingface-hub>=2.4.0",
     "numpy>=2.5.4",
+    "openexr>=3.5.4",
     "pillow>=13.0.0",
+    "pyarrow>=26.0.1",
     "viser>=1.1.1",
 ]
