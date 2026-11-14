@@ -1,0 +1,13 @@
+# Python environment and caches (recreated by `uv sync`)
+.venv/
+__pycache__/
+*.pyc
+
+# Data never goes in git: datasets and renders live in ~/data
+data/
+renders/
+*.exr
+*.hdr
+*.usda
+*.usd
+*.glb

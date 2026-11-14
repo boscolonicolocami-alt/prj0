@@ -1,0 +1,11 @@
+[project]
+name = "prj0"
+version = "0.1.0"
+requires-python = "==3.13.*"  # bpy 5.2 wheels exist only for Python 3.13
+dependencies = [
+    "bpy==5.2.*",
+    "huggingface-hub>=2.4.0",
+    "numpy>=2.5.4",
+    "pillow>=13.0.0",
+    "viser>=1.1.1",
+]
